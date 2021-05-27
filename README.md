@@ -15,3 +15,6 @@ To Run:
 4. Open Ganache GUI
 5. $ truffle migrate
 6. npm run dev
+
+Note: Install extension for MetaMask Legacy Web3
+https://metamask.zendesk.com/hc/en-us/articles/360053147012
